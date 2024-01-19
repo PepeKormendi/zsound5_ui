@@ -1,0 +1,1 @@
+sap.ui.define(["./BaseController"],function(t){"use strict";return t.extend("cust.cronos.sap.music.zmusic5.controller.App",{onInit:function(){this.getView().addStyleClass(this.getOwnerComponent().getContentDensityClass())}})});                            

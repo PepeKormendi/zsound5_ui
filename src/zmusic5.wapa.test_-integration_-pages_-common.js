@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/test/Opa5"],function(s){"use strict";return s.extend("cust.cronos.sap.music.zmusic5.test.integration.pages.Common",{})});                                                                                                               
